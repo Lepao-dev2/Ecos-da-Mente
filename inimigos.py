@@ -7,7 +7,7 @@ class Inimigo:
 
         self.nome = nome
         self.dano = dano
-        self.vida = vida
+        self.vida = 20
 
         self.raio_visao = raio_visao
 
