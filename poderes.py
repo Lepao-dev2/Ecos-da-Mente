@@ -1,1 +1,2 @@
-class poderes
+class poderes:
+  def __init__(self,dano)
