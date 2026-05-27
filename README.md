@@ -23,3 +23,17 @@ A Organização será feita da seguinte maneira, iremos criar um arquivo .py par
 Na primeiroa versão pretendemos ter pelo menos a interface e um bloco(player) visiveis na tela
 
 Algumas ideias futuras para  jogo seriam implementações de mais fases e uma tela para o fim do jogo
+
+*PLANEJAMENTO*
+Semana 1:
+Desenho/esboço da seleção de fases
+Semana 2:
+Desenho/esboço do mapa em jogo
+Semana 3:
+Implementação do personagem na tela do game
+Semana 4:
+Implementação das imagens/ideias do personagem
+Semana 5:
+Animações do personagem principal
+Semana 6:
+Desenho/esboço de inicio de jogo
