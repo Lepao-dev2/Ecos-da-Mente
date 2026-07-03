@@ -30,9 +30,9 @@ Desenho/esboço da seleção de fases
 Semana 2:
 Desenho/esboço do mapa em jogo
 Semana 3:
-Implementação do personagem na tela do game
+Implementação do personagem na tela do game(representado em quadrados)
 Semana 4:
-Implementação das imagens/ideias do personagem
+Desenho/esboço dos inimigos
 Semana 5:
 Animações do personagem principal
 Semana 6:
