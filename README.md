@@ -37,3 +37,4 @@ Semana 5:
 Animações do personagem principal
 Semana 6:
 Desenho/esboço de inicio de jogo
+.
