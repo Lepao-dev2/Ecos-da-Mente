@@ -4,8 +4,8 @@ from settings import *
 
 
 class Dinosaur(pygame.sprite.Sprite):
-    def _init_(self):
-        super()._init_()
+    def __init__(self):
+        super().__init__()
 
         self.image = pygame.Surface((40, 60))
         self.image.fill(BLACK)
@@ -33,8 +33,8 @@ class Dinosaur(pygame.sprite.Sprite):
 
 
 class Obstacle(pygame.sprite.Sprite):
-    def _init_(self):
-        super()._init_()
+    def __init__(self):
+        super().__init__()
 
         width = random.choice([20, 30, 40])
         height = random.choice([40, 60, 80])
@@ -54,8 +54,8 @@ class Obstacle(pygame.sprite.Sprite):
 
 
 class Ground(pygame.sprite.Sprite):
-    def _init_(self):
-        super()._init_()
+    def __init__(self):
+        super().__init__()
 
         self.image = pygame.Surface((WIDTH, 10))
         self.image.fill(GRAY)
