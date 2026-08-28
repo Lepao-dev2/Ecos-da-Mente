@@ -7,7 +7,7 @@ from sprites import Dinosaur, Obstacle, Ground
 
 
 class Game:
-    def _init_(self):
+    def __init__(self):
         pygame.init()
 
         self.screen = pygame.display.set_mode((WIDTH, HEIGHT))
